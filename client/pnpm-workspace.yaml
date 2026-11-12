@@ -1,0 +1,10 @@
+packages:
+    - 'apps/*'
+    - 'packages/*'
+    - 'e2e'
+
+catalog:
+    react: ^19
+    react-dom: ^19
+    typescript: ~6
+
